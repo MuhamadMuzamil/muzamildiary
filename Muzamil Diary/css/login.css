@@ -1,0 +1,50 @@
+body {
+    background-color: #333;
+    font-family: Arial, sans-serif;
+    }
+    
+    .container {
+    width: 300px;
+    margin: 50px auto;
+    background-color: #444;
+    padding: 20px;
+    border: 1px solid #666;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+    }
+    
+    .login-box, .signup-box {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #555;
+    border: 1px solid #666;
+    border-radius: 10px;
+    }
+    
+    h2 {
+    color: #fff;
+    text-align: center;
+    }
+    
+    input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #666;
+    border-radius: 5px;
+    }
+    
+    button {
+    width: 100%;
+    padding: 10px;
+    background-color: #666;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    }
+    
+    #error {
+    color: #ff0000;
+    }
